@@ -219,10 +219,6 @@ http://181.65.199.218:8000/play/a018/index.m3u8
 http://181.174.115.86:8000/play/a0hz/index.m3u8
 #EXTINF:-1 group-title="Música",MTV Hits
 http://8.242.179.179:58001/play/a02s/index.m3u8
-#EXTINF:-1 group-title="Música",MTV Hits 2
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45806
-#EXTINF:-1 group-title="Música",MTV Hits 3
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45806
 
 
 #EXTINF:-1 group-title="The Office - Serie",The Office T1:E1
@@ -289,17 +285,10 @@ http://190.131.247.82:8000/play/a039
 #EXTINF:-1 group-title="Revisar",Win Sports+ (BIEN)
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372332
 
-#EXTINF:-1 group-title="Revisar",DIRECTV SPORTS 2 (BIEN)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/40625
-#EXTINF:-1 group-title="Revisar",DIRECTV SPORTS 1-1 (BIEN)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28721
-#EXTINF:-1 group-title="Revisar",DIRECTV SPORTS 1-2 (BIEN)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28581
-
-#EXTINF:-1 group-title="Revisar",DIRECTV SPORTS 1 LAN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45708
-#EXTINF:-1 group-title="Revisar",DIRECTV SPORTS 2 LAN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45710
+#EXTINF:-1 group-title="Revisar",DIRECTV SPORTS 1
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8468
+#EXTINF:-1 group-title="Revisar",DIRECTV SPORTS 2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8464
 
 #EXTINF:-1 group-title="Revisar",TELE MEDELLIN (BIEN)
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28619
@@ -365,12 +354,6 @@ http://venomtt.com:8000/kdcxxD1U/543545/206333
 #EXTINF:-1 group-title="Revisar",LA: DISCOVERY CHANNEL
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/17037
 
-#EXTINF:-1 group-title="Revisar",LA: DIRECTVSP 1
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8468
-#EXTINF:-1 group-title="Revisar",LA: DIRECTVSP 2
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8464
-#EXTINF:-1 group-title="Revisar",LA: DIRECT SPORTS+
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8465
 #EXTINF:-1 group-title="Revisar",LA: SPORTS RED BULL TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8666
 #EXTINF:-1 group-title="Revisar",LA: TIGO SPORT CR 1
@@ -378,3 +361,5 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8668
 #EXTINF:-1 group-title="Revisar",LA: TNT SPORTS (ARG)
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8463
 
+#EXTINF:-1 group-title="Revisar",INVESTIGATION DISCOVERY
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45806
