@@ -221,6 +221,8 @@ http://181.174.115.86:8000/play/a0hz/index.m3u8
 http://8.242.179.179:58001/play/a02s/index.m3u8
 #EXTINF:-1 group-title="Música",MTV Hits 2
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45806
+#EXTINF:-1 group-title="Música",MTV Hits 3
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45806
 
 
 #EXTINF:-1 group-title="The Office - Serie",The Office T1:E1
