@@ -1,0 +1,378 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Colombia",Teleantioquia (720)
+http://181.78.22.214:8000/play/a01n
+#EXTINF:-1 group-title="Colombia",Canal Caracol (1280)
+http://181.78.21.37:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Colombia",Canal 1 (854)
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF:-1 group-title="Colombia",Canal RCN
+http://181.143.231.99:9000/play/a005
+#EXTINF:-1 group-title="Colombia",Cosmovisión (1280)
+https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Colombia",Canal Institucional
+http://181.78.21.36:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Colombia",CNN Español (544)
+http://190.83.119.254:8000/play/a0ty/index.m3u8
+#EXTINF:-1 group-title="Colombia",Señal Colombia (720)
+http://181.78.22.214:8000/play/a01b
+#EXTINF:-1 group-title="Colombia",EWTN
+http://8.242.179.180:58001/play/a030/index.m3u8
+#EXTINF:-1 group-title="Colombia",Mas Chic
+http://8.242.179.180:58001/play/a01y/index.m3u8
+#EXTINF:-1 group-title="Colombia",Canal Estrellas
+http://209.45.81.8:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="Colombia",El Gourmet
+http://45.171.66.198:8082/play/a028
+#EXTINF:-1 group-title="Colombia",Canal Congreso (720)
+http://181.78.22.214:8000/play/a01a
+#EXTINF:-1 group-title="Colombia",RCN Novelas (720)
+http://45.162.135.1:1080/play/a02s
+#EXTINF:-1 group-title="Colombia",Tru TV
+http://45.171.66.198:8082/play/a00t
+
+
+#EXTINF:-1 group-title="Deportes",Win Sports (1920)
+http://181.129.186.36:8089/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Deportes",Win Sports+
+http://190.61.44.134:6082/play/a0v1
+#EXTINF:-1 group-title="Deportes",Fox Sports 2 (720)
+http://181.78.22.214:8000/play/a01v
+#EXTINF:-1 group-title="Deportes",Fox Sports 3 (720)
+http://181.78.22.214:8000/play/a01w
+#EXTINF:-1 group-title="Deportes",ESPN (1280)
+http://181.65.199.218:8000/play/a0g6/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 2 (720)
+http://181.65.199.218:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 3 (720)
+http://181.65.199.218:8000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 4
+http://181.65.199.218:8000/play/a02f/54940510.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN Extra
+http://190.186.159.19:58001/play/a02z/index.m3u8
+#EXTINF:-1 group-title="Deportes",Barca TV (ESP) (720)
+http://w4.12all.tv:4000/play/barcatv/index.m3u8
+#EXTINF:-1 group-title="Deportes",DAZN (ESP) (1280)
+http://w4.12all.tv:4000/play/beinlaliga/index.m3u8
+#EXTINF:-1 group-title="Deportes",TyC Sports - 1 (ARG) (1920)
+http://181.65.199.218:8000/play/a0c0/index.m3u8
+#EXTINF:-1 group-title="Deportes",TyC Sports - 2 (ARG)
+http://181.65.169.36:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="Deportes",BT SPORT 2 (1920)
+http://w4.12all.tv:4000/play/btsport2/index.m3u8
+#EXTINF:-1 group-title="Deportes",BT SPORT 3 (1280)
+http://w4.12all.tv:4000/play/btsport3/index.m3u8
+#EXTINF:-1 group-title="Deportes",Sky Sports 1 (1920)
+http://w4.12all.tv:4000/play/ssports1/index.m3u8
+#EXTINF:-1 group-title="Deportes",Sky Sports 4 (1280)
+http://w4.12all.tv:4000/play/skysports4/index.m3u8
+#EXTINF:-1 group-title="Deportes",Gol TV (POR)
+http://181.143.231.99:9000/play/a01t
+#EXTINF:-1 group-title="Deportes",Gol TV (POR) (1920)
+http://181.65.199.218:8000/play/a0bv/index.m3u8
+#EXTINF:-1 group-title="Deportes",TNT Sports 2 (CHI) (1280)
+http://138.36.253.14:8012/play/a016
+#EXTINF:-1 group-title="Deportes",TNT Sports 3 (CHI) (720)
+http://168.194.171.33:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Deportes",TNT Sports 3 (CHI) (1280)
+http://138.36.253.14:8012/play/a015
+#EXTINF:-1 group-title="Deportes",Claro Sports (REV.)
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28570
+#EXTINF:-1 group-title="Deportes",Movistar Deportes (PER) (1920)
+http://181.65.199.218:8000/play/a0br/index.m3u8
+#EXTINF:-1 group-title="Deportes",Latin America Sport
+http://181.65.199.218:8000/play/a0ff/index.m3u8
+
+
+#EXTINF:-1 group-title="Internacional",CNN Internacional
+http://8.242.179.179:58001/play/a026/index.m3u8
+#EXTINF:-1 group-title="Internacional",BBC World News (1280)
+http://w4.12all.tv:4000/play/bbc1/index.m3u8
+
+
+#EXTINF:-1 group-title="Adultos",Playboy
+http://8.242.179.180:58001/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Adultos",Venus (544)
+http://45.5.119.202:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Adultos",Hustler HD
+http://85.11.144.9:7766/HustlerHD?token=test
+#EXTINF:-1 group-title="Adultos",Hot 1 HD
+http://85.11.144.9:7766/SuperOneHD?token=test
+#EXTINF:-1 group-title="Adultos",Private HD
+http://85.11.144.9:7766/Private?token=test
+#EXTINF:-1 group-title="Adultos",Reality Kings TV
+http://85.11.144.9:7766/RealityKings?token=test
+#EXTINF:-1 group-title="Adultos",Erox HD
+http://85.11.144.9:7766/EroxHD?token=test
+#EXTINF:-1 group-title="Adultos",XXL
+http://85.14.32.15:8801/udp/224.100.1.151:56000
+#EXTINF:-1 group-title="Adultos",AdultIPTV - Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="Adultos",AdultIPTV - Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+
+
+#EXTINF:-1 group-title="Infantil",Disney Channel (544)
+http://45.5.119.202:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Infantil",Discovery Kids
+http://45.171.66.198:8082/play/a01f
+#EXTINF:-1 group-title="Infantil",Disney Junior (544)
+http://45.5.119.202:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="Infantil",Cartoon Network (544)
+http://45.5.119.202:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="Infantil",Nickelodeon (720)
+http://45.162.135.1:1080/play/a04i
+#EXTINF:-1 group-title="Infantil",Cartoonito (544)
+http://45.5.119.202:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="Infantil",Tooncast
+http://45.171.66.198:8082/play/a005
+#EXTINF:-1 group-title="Infantil",Nick Junior (720)
+http://45.162.135.1:1080/play/a03u
+
+
+#EXTINF:-1 group-title="Documentales y Naturaleza",Discovery Channel
+http://45.171.66.198:8082/play/a00c
+#EXTINF:-1 group-title="Documentales y Naturaleza",Animal Planet (544)
+http://45.5.119.202:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Documentales y Naturaleza",Discovery Home & Health HD
+http://8.242.179.179:58001/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Documentales y Naturaleza",TLC
+http://209.45.81.8:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="Documentales y Naturaleza",National Geographic
+http://209.45.81.8:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Documentales y Naturaleza",History Channel HD
+http://8.242.179.180:58001/play/a031/index.m3u8
+#EXTINF:-1 group-title="Documentales y Naturaleza",Investigation Discovery HD
+http://8.242.179.180:58001/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Documentales y Naturaleza",Discovery Turbo (544)
+http://181.224.161.88:58002/play/a03u/index.m3u8
+
+
+#EXTINF:-1 group-title="Películas y Series",Cine Canal
+http://209.45.81.8:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Cine Canal HD
+http://8.242.179.180:58002/play/a03o/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Studio Universal
+http://45.171.66.198:8082/play/a01v
+#EXTINF:-1 group-title="Películas y Series",Sony Movies HD
+http://181.65.199.218:8000/play/a081/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",TNT (720)
+http://181.65.199.218:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",TCM
+http://45.171.66.198:8082/play/a029
+#EXTINF:-1 group-title="Películas y Series",Space (1920)
+http://181.224.161.88:58002/play/a04b/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Cine Max
+http://8.242.179.184:58002/play/a045/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Golden
+http://45.171.66.198:8082/play/a02c
+#EXTINF:-1 group-title="Películas y Series",AMC HD
+http://8.242.179.180:58001/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Comedy Central HD
+http://181.174.115.86:8000/play/a0hy/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Star Channel HD
+http://8.242.187.236:5010/play/a0b7/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",FX HD
+http://8.242.179.180:58001/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",AXN (1920)
+http://181.224.161.88:58002/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Sony HD
+http://8.242.179.184:58002/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Warner (544)
+http://45.5.119.202:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Warner (1920)
+http://45.5.119.202:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",A&E HD
+http://8.242.179.180:58001/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",TBS
+http://45.171.66.198:8082/play/a00y
+#EXTINF:-1 group-title="Películas y Series",TNT Series (1920)
+http://138.36.253.14:8012/play/a01v
+#EXTINF:-1 group-title="Películas y Series",E! Entertairment HD
+http://181.65.199.218:8000/play/a07u/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",SyFy (544)
+http://181.224.161.88:58002/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Film & Arts HD
+http://8.242.179.179:58001/play/a009/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Paramount HD
+http://8.242.179.180:58001/play/a015/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Universal Cinema
+http://181.65.199.218:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Universal Cinema HD
+http://181.65.199.218:8000/play/a099/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Multipremier (544)
+http://181.224.161.88:58002/play/a043/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",HBO (720)
+http://181.65.199.218:8000/play/a0dx/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",HBO 2 (720)
+http://181.65.199.218:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",HBO Family (720)
+http://181.65.199.218:8000/play/a0cd/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",HBO+ (720)
+http://181.65.199.218:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",HBO Xtreme (720)
+http://181.65.199.218:8000/play/a018/index.m3u8
+
+
+#EXTINF:-1 group-title="Música",MTV HD
+http://181.174.115.86:8000/play/a0hz/index.m3u8
+#EXTINF:-1 group-title="Música",MTV Hits
+http://8.242.179.179:58001/play/a02s/index.m3u8
+
+
+#EXTINF:-1 group-title="The Office - Serie",The Office T1:E1
+https://sto025.akamai-cdn-content.com/tysxfjzl2g66j6cdadfbrgscfqy2qg23hfyehvtxkhzezuh7xv7akup3dqqq/tt0386676-1-1.mp4
+#EXTINF:-1 group-title="The Office - Serie",The Office T1:E2
+https://sto100.akamai-cdn-content.com/tysxfnjl2g66j6cdadfbrrcwoemw4otkxbulflvcmgkkhjd7xcn2eyw2t77q/tt0386676-1-2.mp4
+#EXTINF:-1 group-title="The Office - Serie",The Office T1:E3
+https://sto062.akamai-cdn-content.com/tysxf7zl2g66j6cdadfbrvs5efe3voelhcghzfa2wghygo6swha3wm22wfeq/tt0386676-1-3.mp4
+#EXTINF:-1 group-title="The Office - Serie",The Office T1:E4
+https://sto100.akamai-cdn-content.com/tysxf6jl2g66j6cdadfbrqc4fowpkhfnni4vnrhxdnyohzpdpfxyptekci5a/tt0386676-1-4.mp4
+#EXTINF:-1 group-title="The Office - Serie",The Office T1:E5
+https://sto025.akamai-cdn-content.com/tysxehji2g66j6cdadfbrhcdfw32sxmvwyy44yjze4sk2wt6ugwovi2dghxa/tt0386676-1-5.mp4
+#EXTINF:-1 group-title="The Office - Serie",The Office T1:E6
+https://sto082.akamai-cdn-content.com/tysxekji2g66j6cdadfbrhsgf2a2wtzgvsmhn5uz3rnzm67fglpv7vkkg5nq/tt0386676-1-6.mp4
+
+
+
+
+
+
+#EXTINF:-1 group-title="Revisar",bTV Lady
+http://46.55.161.239:30003/play/a014
+#EXTINF:-1 group-title="Revisar",Playboy TV HD
+http://46.55.161.239:30003/play/a054
+#EXTINF:-1 group-title="Revisar",Erox HD
+http://46.55.161.239:30003/play/a05a
+#EXTINF:-1 group-title="Revisar",MAX Sport 1 HD
+http://46.55.161.239:30003/play/a02r
+#EXTINF:-1 group-title="Revisar",FOX HD
+http://46.55.161.239:30003/play/a049
+#EXTINF:-1 group-title="Revisar",MAX Sport 2 HD
+http://46.55.161.239:30003/play/a02s
+#EXTINF:-1 group-title="Revisar",MAX Sport 3 HD
+http://46.55.161.239:30003/play/a04e
+#EXTINF:-1 group-title="Revisar",Nova Sport
+http://46.55.161.239:30003/play/a038
+#EXTINF:-1 group-title="Revisar",13 GolTV HD
+http://209.45.80.116:8070/play/a035/index.m3u8
+#EXTINF:-1 group-title="Revisar",15 TyC Sports HD
+http://209.45.80.116:8070/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Revisar",ESPN 4 (BIEN)
+http://190.27.172.239:25000/play/a02s
+#EXTINF:-1 group-title="Revisar",ESPN 4 HD
+http://45.162.135.1:1080/play/a0ap
+
+#EXTINF:-1 group-title="Revisar",ESPN EXTRA 1
+http://venomtt.com:8000/kdcxxD1U/543545/206551
+#EXTINF:-1 group-title="Revisar",ESPN EXTRA 2
+http://top.streancdn.fun:80/0987654321/1234567890/2163184
+#EXTINF:-1 group-title="Revisar",ESPN EXTRA 3
+http://top.streancdn.fun:80/0987654321/1234567890/2163185
+#EXTINF:-1 group-title="Revisar",ESPN EXTRA 4
+http://top.streancdn.fun:80/0987654321/1234567890/2163206
+#EXTINF:-1 group-title="Revisar",ESPN Extra 5
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159600
+
+#EXTINF:-1 group-title="Revisar",Canal RCN (BIEN)
+http://190.27.172.236:25000/play/a034
+#EXTINF:-1 group-title="Revisar",CARACOL HD 2
+http://190.131.247.82:8000/play/a03a
+#EXTINF:-1 group-title="Revisar",CARACOL TV HD
+http://190.131.247.82:8000/play/a039
+
+#EXTINF:-1 group-title="Revisar",Win Sports+ (BIEN)
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372332
+
+#EXTINF:-1 group-title="Revisar",DIRECTV SPORTS 2 (BIEN)
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/40625
+#EXTINF:-1 group-title="Revisar",DIRECTV SPORTS 1-1 (BIEN)
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28721
+#EXTINF:-1 group-title="Revisar",DIRECTV SPORTS 1-2 (BIEN)
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28581
+
+#EXTINF:-1 group-title="Revisar",DIRECTV SPORTS 1 LAN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45708
+#EXTINF:-1 group-title="Revisar",DIRECTV SPORTS 2 LAN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45710
+
+#EXTINF:-1 group-title="Revisar",TELE MEDELLIN (BIEN)
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28619
+#EXTINF:-1 group-title="Revisar",LAS ESTRELLAS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28599
+#EXTINF:-1 group-title="Revisar", NTN 24 (BIEN)
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28604
+#EXTINF:-1 group-title="Revisar",RCN (BIEN)
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28607
+#EXTINF:-1 group-title="Revisar",RCN NOVELAS (BIEN)
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/34672
+#EXTINF:-1 group-title="Revisar",TOONCAST
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/135984
+#EXTINF:-1 group-title="Revisar",CARACOL HD
+http://venomtt.com:8000/kdcxxD1U/543545/205549
+
+
+#EXTINF:-1 group-title="Revisar",Play Boy
+http://88.151.248.36:9999/udp/224.0.224.230:1234
+#EXTINF:-1 group-title="Revisar",Hustler TV
+http://78.83.191.18:8000/play/a078
+#EXTINF:-1 group-title="Revisar",Hustler
+http://193.33.240.8:80/hustler_hd/index.m3u8
+
+#EXTINF:-1 group-title="Revisar",Penthouse
+http://asterix-iptv.club:25461/esoarene/Ct225SCUDn/4822
+#EXTINF:-1 group-title="Revisar",Penthouse 2
+http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15889.ts
+#EXTINF:-1 group-title="Revisar",Penthouse Gold HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/3232.m3u8
+#EXTINF:-1 group-title="Revisar",Penthouse Quickies
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/3234.m3u8
+
+#EXTINF:-1 group-title="Revisar",LAS ESTRELLAS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28599
+#EXTINF:-1 group-title="Revisar",EL GOURMET
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/29396
+#EXTINF:-1 group-title="Revisar",MASCHIC
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/42172
+#EXTINF:-1 group-title="Revisar",CANAL INSTITUCIONAL HD
+http://venomtt.com:8000/kdcxxD1U/543545/205530
+#EXTINF:-1 group-title="Revisar",TRU TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/42167
+#EXTINF:-1 group-title="Revisar",GOL TV
+http://venomtt.com:8000/kdcxxD1U/543545/206070
+
+#EXTINF:-1 group-title="Revisar",CNN
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/42040
+#EXTINF:-1 group-title="Revisar",CNN ESPANOL
+http://venomtt.com:8000/kdcxxD1U/543545/205787
+#EXTINF:-1 group-title="Revisar",CNN EN ESPANOL 2
+http://venomtt.com:8000/kdcxxD1U/543545/206356
+#EXTINF:-1 group-title="Revisar",CNN INTERNATIONAL
+http://venomtt.com:8000/kdcxxD1U/543545/206354
+
+#EXTINF:-1 group-title="Revisar",DISCOVERY KIDS
+http://venomtt.com:8000/kdcxxD1U/543545/205878
+#EXTINF:-1 group-title="Revisar",TOONCAST
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/135984
+#EXTINF:-1 group-title="Revisar",ANIMAL PLANET
+http://venomtt.com:8000/kdcxxD1U/543545/206333
+
+#EXTINF:-1 group-title="Revisar",LA: DISCOVERY CHANNEL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/17037
+
+#EXTINF:-1 group-title="Revisar",LA: DIRECTVSP 1
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8468
+#EXTINF:-1 group-title="Revisar",LA: DIRECTVSP 2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8464
+#EXTINF:-1 group-title="Revisar",LA: DIRECT SPORTS+
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8465
+#EXTINF:-1 group-title="Revisar",LA: SPORTS RED BULL TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8666
+#EXTINF:-1 group-title="Revisar",LA: TIGO SPORT CR 1
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8668
+#EXTINF:-1 group-title="Revisar",LA: TNT SPORTS (ARG)
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8463
+
+#EXTINF:-1 group-title="Revisar",INVESTIGATION DISCOVERY
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45806
