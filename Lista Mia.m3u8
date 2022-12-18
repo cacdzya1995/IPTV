@@ -1,0 +1,353 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Colombia",Teleantioquia (1024)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/421.m3u8
+#EXTINF:-1 group-title="Colombia", Telemedellin (Opc 1) (REVISAR)
+https://liveingesta118.cdnmedia.tv/telemedellintvlive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 group-title="Colombia", Telemedellin (Opc 2) (1920)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/424.m3u8
+#EXTINF:-1 group-title="Colombia",Canal Caracol (1280)
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1 group-title="Colombia",Canal Uno (1024)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/415.m3u8
+#EXTINF:-1 group-title="Colombia",Canal RCN (1280)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/254190.m3u8
+#EXTINF:-1 group-title="Colombia",Cosmovisión (1280)
+https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Colombia",Canal Institucional
+http://181.78.21.36:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Colombia",CNN Español (544)
+http://190.83.119.254:8000/play/a0ty/index.m3u8
+#EXTINF:-1 group-title="Colombia",Mi Señal Colombia (1920)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/420.m3u8
+#EXTINF:-1 group-title="Colombia",EWTN
+http://8.242.179.180:58001/play/a030/index.m3u8
+#EXTINF:-1 group-title="Colombia",Mas Chic
+http://8.242.179.180:58001/play/a01y/index.m3u8
+#EXTINF:-1 group-title="Colombia",Canal Estrellas
+http://209.45.81.8:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="Colombia",El Gourmet
+http://45.171.66.198:8082/play/a028
+#EXTINF:-1 group-title="Colombia",Canal Congreso
+http://181.78.22.214:8000/play/a01a
+#EXTINF:-1 group-title="Colombia",RCN Novelas (720)
+http://45.162.135.1:1080/play/a02s
+#EXTINF:-1 group-title="Colombia",Tru TV
+http://45.171.66.198:8082/play/a00t
+
+
+#EXTINF:-1 group-title="Deportes",Win Sports (COL) (1920)
+http://181.129.186.36:8089/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Deportes",Win Sports+ (1280)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/289741.m3u8
+#EXTINF:-1 group-title="Deportes",DirecTV Sports (1920)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/267390.m3u8
+#EXTINF:-1 group-title="Deportes",DirecTV Sports+ (1920)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/259251.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 2 (COL) (1440)
+http://45.174.84.154:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 3 (COL) (1280)
+http://45.181.121.57:2909/play/211
+#EXTINF:-1 group-title="Deportes",ESPN (COL) (1280)
+http://45.181.121.57:2909/play/212
+#EXTINF:-1 group-title="Deportes",ESPN 2 (COL) (720)
+http://45.179.140.242:8000/play/a0id
+#EXTINF:-1 group-title="Deportes",ESPN 2 (BRA) (640)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/240727.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 3 (COL) (1280)
+http://45.181.121.57:2909/play/216
+#EXTINF:-1 group-title="Deportes",ESPN 4 (COL) (1920)
+http://45.181.121.57:2909/play/218
+#EXTINF:-1 group-title="Deportes",ESPN Extra (COL) (1280)
+http://200.48.19.141:10021/play/a01j
+#EXTINF:-1 group-title="Deportes",ESPN Extra (1280)
+http://190.186.159.19:58001/play/a02z/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN Extra (POR) (1280)
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159600
+#EXTINF:-1 group-title="Deportes",Barca TV (ESP)
+http://w4.12all.tv:4000/play/barcatv/index.m3u8
+#EXTINF:-1 group-title="Deportes",DAZN 1 (ESP) (1920)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/279225.m3u8
+#EXTINF:-1 group-title="Deportes",DAZN 2 (ESP) (1280)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/279226.m3u8
+#EXTINF:-1 group-title="Deportes",DAZN 3 (ESP) (1280)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/279227.m3u8
+#EXTINF:-1 group-title="Deportes",DAZN 4 (ESP) (1280)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/297430.m3u8
+#EXTINF:-1 group-title="Deportes",DAZN LA LIGA (ESP) (1280)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/296662.m3u8
+#EXTINF:-1 group-title="Deportes",TyC Sports 1 (ARG) (960)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/262179.m3u8
+#EXTINF:-1 group-title="Deportes",BT Sport 2
+http://w4.12all.tv:4000/play/btsport2/index.m3u8
+#EXTINF:-1 group-title="Deportes",BT Sport 3
+http://w4.12all.tv:4000/play/btsport3/index.m3u8
+#EXTINF:-1 group-title="Deportes",Sky Sports 1
+http://w4.12all.tv:4000/play/ssports1/index.m3u8
+#EXTINF:-1 group-title="Deportes",Sky Sports 4
+http://w4.12all.tv:4000/play/skysports4/index.m3u8
+#EXTINF:-1 group-title="Deportes",Sport EXT (1280)
+http://45.181.121.57:2909/play/232
+#EXTINF:-1 group-title="Deportes",Gol TV (POR)
+http://181.143.231.99:9000/play/a01t
+#EXTINF:-1 group-title="Deportes",TNT Sports HD (CHI) (1920)
+http://45.181.121.57:2909/play/233
+#EXTINF:-1 group-title="Deportes",TNT Sports 2 (CHI) (720)
+http://45.181.121.57:2909/play/234
+#EXTINF:-1 group-title="Deportes",TNT Sports 3 (CHI) (720)
+http://45.181.121.57:2909/play/235
+#EXTINF:-1 group-title="Deportes",Claro Sports 1 (COL) (Opc 1) (720)
+http://45.179.140.242:8000/play/a0ht
+#EXTINF:-1 group-title="Deportes",Claro Sports 1 (COL) (Opc 2) (1920)
+http://201.159.115.175:2000/play/a08u/index.m3u8
+#EXTINF:-1 group-title="Deportes",Claro Sports 2 (COL) (1440)
+http://201.159.115.175:2000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="Deportes",Movistar Deportes (PER)
+http://181.65.199.218:8000/play/a0br/index.m3u8
+#EXTINF:-1 group-title="Deportes",Latin America Sport
+http://181.65.199.218:8000/play/a0ff/index.m3u8
+
+
+#EXTINF:-1 group-title="Noticias",CNN Internacional (1920)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/1506.m3u8
+#EXTINF:-1 group-title="Noticias",CNN (960)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/40832.m3u8
+#EXTINF:-1 group-title="Noticias",NTN 24 (720)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/40831.m3u8
+#EXTINF:-1 group-title="Noticias",BBC World News
+http://w4.12all.tv:4000/play/bbc1/index.m3u8
+
+
+#EXTINF:-1 group-title="Adultos",Playboy TV (REVISAR)
+http://195.154.185.179:80/xx_playboy_tv/index.m3u8
+#EXTINF:-1 group-title="Adultos",Playboy (720)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/244340.m3u8
+#EXTINF:-1 group-title="Adultos",Venus TV (REVISAR)
+http://195.154.185.179:80/xx_venus_tv/index.m3u8
+#EXTINF:-1 group-title="Adultos",Venus (REVISAR)
+http://45.232.210.1:8062/play/a0ca/index.m3u8
+#EXTINF:-1 group-title="Adultos",Nuart TV (REVISAR)
+http://195.154.185.179/xx_nuart_tv/index.m3u8
+#EXTINF:-1 group-title="Adultos",Hustler TV (REVISAR)
+http://195.154.185.179:80/xx_hustler_tv/index.m3u8
+#EXTINF:-1 group-title="Adultos",Hustler HD (1280)
+http://193.33.240.8:80/hustler_hd/index.m3u8
+#EXTINF:-1 group-title="Adultos",Jasmin TV (REVISAR)
+http://195.154.185.179/xx_jasmin_tv/index.m3u8
+#EXTINF:-1 group-title="Adultos",Fashion TV (REVISAR)
+http://195.154.185.179/xx_fashion_tv/index.m3u8
+#EXTINF:-1 group-title="Adultos",Hot TV (REVISAR)
+http://195.154.185.179:80/xx_hot_tv/index.m3u8
+#EXTINF:-1 group-title="Adultos",Hot TV 2 (REVISAR)
+http://195.154.185.179:80/xx_hot_tv/video.m3u8
+#EXTINF:-1 group-title="Adultos",Prive TV (REVISAR)
+http://195.154.185.179:80/xx_prive_tv/index.m3u8
+#EXTINF:-1 group-title="Adultos",Leo TV (REVISAR)
+http://195.154.185.179:80/xx_leo_tv/index.m3u8
+#EXTINF:-1 group-title="Adultos",Olala TV (REVISAR)
+http://195.154.185.179:80/xx_o_la_la_tv/index.m3u8
+#EXTINF:-1 group-title="Adultos",Reality Kings TV
+http://85.11.144.9:7766/RealityKings?token=test
+#EXTINF:-1 group-title="Adultos",Erox (REVISAR)
+http://94.229.250.73:8008/play/a002
+#EXTINF:-1 group-title="Adultos",XXL (REVISAR)
+http://85.14.32.15:8801/udp/224.100.1.151:56000
+#EXTINF:-1 group-title="Adultos",XY Plus (REVISAR)
+http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
+#EXTINF:-1 group-title="Adultos",AdultIPTV - Lesbian (1280)
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="Adultos",AdultIPTV - Threesome (1280)
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="Adultos",Multiki (REVISAR)
+http://144.76.58.245:2307/cartoon/mpegts
+
+
+#EXTINF:-1 group-title="Infantil",Disney Channel (COL) (544)
+http://201.159.115.175:2000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="Infantil",Discovery Kids
+http://45.171.66.198:8082/play/a01f
+#EXTINF:-1 group-title="Infantil",Disney Junior (COL) (544)
+http://201.159.115.175:2000/play/a035/index.m3u8
+#EXTINF:-1 group-title="Infantil",Cartoon Network (COL) (1920)
+http://201.159.115.175:2000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="Infantil",Nickelodeon (COL) (Opc 1) (544)
+http://201.159.115.175:2000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="Infantil",Nickelodeon (COL) (Opc 2) (720)
+http://45.162.135.1:1080/play/a04i
+#EXTINF:-1 group-title="Infantil",Cartoonito (COL) (544)
+http://201.159.115.175:2000/play/a034/index.m3u8
+#EXTINF:-1 group-title="Infantil",Tooncast
+http://45.171.66.198:8082/play/a005
+#EXTINF:-1 group-title="Infantil",Nick Junior (COL) (720)
+http://45.162.135.1:1080/play/a03u
+
+
+#EXTINF:-1 group-title="Documentales y Naturaleza",Discovery Channel (COL) (544)
+http://201.159.115.175:2000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="Documentales y Naturaleza",Animal Planet (COL) (1920)
+http://45.233.169.25:8000/play/a005
+#EXTINF:-1 group-title="Documentales y Naturaleza",Discovery Home & Health (COL) (544)
+http://201.159.115.175:2000/play/a052/index.m3u8
+#EXTINF:-1 group-title="Documentales y Naturaleza",TLC
+http://209.45.81.8:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="Documentales y Naturaleza",National Geographic
+http://209.45.81.8:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Documentales y Naturaleza",History Channel (COL) (1920)
+http://201.159.115.175:2000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="Documentales y Naturaleza",Investigation Discovery HD
+http://8.242.179.180:58001/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Documentales y Naturaleza",Discovery Science (COL) (720)
+http://201.159.115.175:2000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="Documentales y Naturaleza",Discovery Turbo (COL) (544)
+http://181.224.161.88:58002/play/a03u/index.m3u8
+
+
+#EXTINF:-1 group-title="Películas y Series",Cine Canal (COL) (544)
+http://201.159.115.175:2000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Studio Universal
+http://45.171.66.198:8082/play/a01v
+#EXTINF:-1 group-title="Películas y Series",Sony Movies HD
+http://181.65.199.218:8000/play/a081/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",TNT
+http://181.65.199.218:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",TCM
+http://45.171.66.198:8082/play/a029
+#EXTINF:-1 group-title="Películas y Series",Space (COL) (1920)
+http://181.224.161.88:58002/play/a04b/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Cine Max (COL) (544)
+http://201.159.115.175:2000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Golden (COL) (544)
+http://201.159.115.175:2000/play/a047/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",AMC HD
+http://8.242.179.180:58001/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Comedy Central (Opc 1) (512)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/260587.m3u8
+#EXTINF:-1 group-title="Películas y Series",Comedy Central (Opc 2) (1280)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/263450.m3u8
+#EXTINF:-1 group-title="Películas y Series",Star Channel
+http://8.242.187.236:5010/play/a0b7/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",FX (COL) (544)
+http://201.159.115.175:2000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",AXN (COL) (1920)
+http://181.224.161.88:58002/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Sony HD
+http://8.242.179.184:58002/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Warner (Opc 1) (640)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/260522.m3u8
+#EXTINF:-1 group-title="Películas y Series",Warner (Opc 2) (REVISAR)
+http://45.181.121.57:2909/play/081
+#EXTINF:-1 group-title="Películas y Series",A&E HD
+http://8.242.179.180:58001/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",TBS
+http://45.171.66.198:8082/play/a00y
+#EXTINF:-1 group-title="Películas y Series",TNT Series (COL) (544)
+http://201.159.115.175:2000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",E! Entertairment HD
+http://181.65.199.218:8000/play/a07u/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",SyFy (COL) (544)
+http://181.224.161.88:58002/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Film & Arts HD
+http://8.242.179.179:58001/play/a009/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Paramount Network (Opc 1) (1280)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/260543.m3u8
+#EXTINF:-1 group-title="Películas y Series",Paramount Network (Opc 2) (1920)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/263357.m3u8
+#EXTINF:-1 group-title="Películas y Series",Universal Cinema
+http://181.65.199.218:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Cine Latino (COL) (544)
+http://201.159.115.175:2000/play/a059/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",Multipremier (COL) (544)
+http://181.224.161.88:58002/play/a043/index.m3u8
+#EXTINF:-1 group-title="Películas y Series",HBO (1920)
+http://45.181.121.57:2909/play/017
+#EXTINF:-1 group-title="Películas y Series",HBO 2 (1920)
+http://45.181.121.57:2909/play/021
+#EXTINF:-1 group-title="Películas y Series",HBO Family (1920)
+http://45.181.121.57:2909/play/018
+#EXTINF:-1 group-title="Películas y Series",HBO+ (Opc 1) (1920)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/135.m3u8
+#EXTINF:-1 group-title="Películas y Series",HBO+ (Opc 2)
+http://45.181.121.57:2909/play/019
+#EXTINF:-1 group-title="Películas y Series",HBO Xtreme (1920)
+http://45.181.121.57:2909/play/020
+#EXTINF:-1 group-title="Películas y Series",HBO Signature (1280)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/136.m3u8
+#EXTINF:-1 group-title="Películas y Series",HBO Mundi (1280)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/137.m3u8
+
+
+#EXTINF:-1 group-title="Música",MTV 1 (REVISAR)
+http://45.181.121.57:2909/play/132
+#EXTINF:-1 group-title="Música",MTV 2 (REVISAR)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/40.m3u8
+#EXTINF:-1 group-title="Música",MTV 3 (REVISAR)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/263351.m3u8
+#EXTINF:-1 group-title="Música",MTV 4 (REVISAR)
+http://51.222.43.170:8001/live/IPTV19DEC/a7RNepewk4XA/40.m3u8
+#EXTINF:-1 group-title="Música",MTV Hits
+http://8.242.179.179:58001/play/a02s/index.m3u8
+
+
+#EXTINF:-1 group-title="The Office - Serie",The Office T1:E1
+https://sto025.akamai-cdn-content.com/tysxfjzl2g66j6cdadfbrgscfqy2qg23hfyehvtxkhzezuh7xv7akup3dqqq/tt0386676-1-1.mp4
+#EXTINF:-1 group-title="The Office - Serie",The Office T1:E2
+https://sto100.akamai-cdn-content.com/tysxfnjl2g66j6cdadfbrrcwoemw4otkxbulflvcmgkkhjd7xcn2eyw2t77q/tt0386676-1-2.mp4
+#EXTINF:-1 group-title="The Office - Serie",The Office T1:E3
+https://sto062.akamai-cdn-content.com/tysxf7zl2g66j6cdadfbrvs5efe3voelhcghzfa2wghygo6swha3wm22wfeq/tt0386676-1-3.mp4
+#EXTINF:-1 group-title="The Office - Serie",The Office T1:E4
+https://sto100.akamai-cdn-content.com/tysxf6jl2g66j6cdadfbrqc4fowpkhfnni4vnrhxdnyohzpdpfxyptekci5a/tt0386676-1-4.mp4
+#EXTINF:-1 group-title="The Office - Serie",The Office T1:E5
+https://sto025.akamai-cdn-content.com/tysxehji2g66j6cdadfbrhcdfw32sxmvwyy44yjze4sk2wt6ugwovi2dghxa/tt0386676-1-5.mp4
+#EXTINF:-1 group-title="The Office - Serie",The Office T1:E6
+https://sto082.akamai-cdn-content.com/tysxekji2g66j6cdadfbrhsgf2a2wtzgvsmhn5uz3rnzm67fglpv7vkkg5nq/tt0386676-1-6.mp4
+
+
+
+
+
+
+#EXTINF:-1 group-title="Revisar",Fox Sports Premium
+http://45.232.210.1:8062/play/a08b/index.m3u8
+#EXTINF:-1 group-title="Revisar",HBO
+http://45.232.210.1:8062/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="Revisar",HBO 2
+http://45.232.210.1:8062/play/a08f/index.m3u8
+#EXTINF:-1 group-title="Revisar",HBO Family
+http://45.232.210.1:8062/play/a08i/index.m3u8
+#EXTINF:-1 group-title="Revisar",HBO Plus
+http://45.232.210.1:8062/play/a08g/index.m3u8
+#EXTINF:-1 group-title="Revisar",CANAL DEPORTIVO + HD
+http://190.61.43.124:45000/play/a06g
+#EXTINF:-1 group-title="Revisar",Canal RCN
+http://190.61.43.124:45000/play/a039
+#EXTINF:-1 group-title="Revisar",Caracol
+http://190.216.105.66:6020/play/a0c1/index.m3u8
+#EXTINF:-1 group-title="Revisar",HBO
+http://190.61.43.124:45000/play/a01z
+#EXTINF:-1 group-title="Revisar",HBO 2
+http://190.61.43.124:45000/play/a02u
+#EXTINF:-1 group-title="Revisar",HBO Family
+http://190.61.43.124:45000/play/a02x
+#EXTINF:-1 group-title="Revisar",HBO Plus
+http://190.61.43.124:45000/play/a02v
+#EXTINF:-1 group-title="Revisar",HBO XTREME SD
+http://190.61.43.124:45000/play/a02w
+#EXTINF:-1 group-title="Revisar",BEIN ESP
+http://200.52.154.125:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="Revisar",TyC Sports
+http://190.216.105.66:6020/play/a08q/index.m3u8
+#EXTINF:-1 group-title="Revisar",TyC Sports HD
+http://190.216.105.66:6020/play/a0e9/index.m3u8
+#EXTINF:-1 group-title="Revisar",ESPN EXTRA HD
+http://190.27.172.231:25000/play/a0b5
+
+#EXTINF:-1 group-title="Revisar",Win Sports HD
+http://8.243.108.57:8000/play/a00e
+#EXTINF:-1 group-title="Revisar",Win Sports+ HD
+http://8.243.108.57:8000/play/a02f
+
+
+
+
+
